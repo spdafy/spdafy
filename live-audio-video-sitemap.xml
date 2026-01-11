@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://www.spdafy.com/live-audio-sets/v/monday-night-boxing</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xZFpjANqfr0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Monday Night Boxing</video:title>
+      <video:description>Live DJ set replay by SPDAFY.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/xZFpjANqfr0</video:player_loc>
+      <video:publication_date>2025-12-15T00:00:00Z</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/live-audio-sets/v/everytime-you-touch</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nmFkO5dlXJk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Everytime You Touch</video:title>
+      <video:description>Live DJ set replay by SPDAFY.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/nmFkO5dlXJk</video:player_loc>
+      <video:publication_date>2025-12-07T00:00:00Z</video:publication_date>
+    </video:video>
+  </url>
+
+</urlset>
