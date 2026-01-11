@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/drug-fits-the-desire</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/DnDhUHM9NbA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Drug Fits The Desire</video:title>
+      <video:description>Artists Inside: Moby - Jonas Blue &amp; Malive - Love Decade - Maestro Fresh Wes. Visual Data: Rooftops &amp; brutalist city patterns; internal architecture collapse, glitch decay.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/DnDhUHM9NbA</video:player_loc>
+      <video:duration>261</video:duration>
+      <video:publication_date>2025-12-31T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/monday-night-boxing</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xZFpjANqfr0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Monday Night Boxing</video:title>
+      <video:description>Artists Inside: (DJ Set). Visual Data: Live-to-air DJ set recording.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/xZFpjANqfr0</video:player_loc>
+      <video:duration>3004</video:duration>
+      <video:publication_date>2025-12-17T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/everytime-you-touch</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nmFkO5dlXJk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Everytime You Touch</video:title>
+      <video:description>Artists Inside: (DJ Set). Visual Data: Weekend Electronic Music Live to Air from Toronto, Canada.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/nmFkO5dlXJk</video:player_loc>
+      <video:duration>3859</video:duration>
+      <video:publication_date>2025-12-11T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/soca-tek</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/U-UilzH3w-0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Soca Tek</video:title>
+      <video:description>Artists Inside: Dam Swindle - Mical Teja. Visual Data: Carnival meets the club; island heat &amp; warehouse energy.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/U-UilzH3w-0</video:player_loc>
+      <video:duration>428</video:duration>
+      <video:publication_date>2025-12-04T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/top-stories</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/H28vsk3sR2c/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Top Stories</video:title>
+      <video:description>Artists Inside: Lana Del Rey - Weeknd - Drake. Visual Data: Audio surveillance aesthetic; shifting headlines and late-night city glare.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/H28vsk3sR2c</video:player_loc>
+      <video:duration>427</video:duration>
+      <video:publication_date>2025-11-14T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/buy-the-ticket-take-the-ride</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/UfmCphwr1ZI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Buy The Ticket, Take The Ride</video:title>
+      <video:description>Artists Inside: Moby. Visual Data: Psychedelic ride energy; club motion, analog grit.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/UfmCphwr1ZI</video:player_loc>
+      <video:duration>429</video:duration>
+      <video:publication_date>2025-11-10T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/no-love-songs</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_qVBvudnyEs/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>No Love Songs</video:title>
+      <video:description>Artists Inside: Prospa - Kosmo Kint. Visual Data: Neon heartbreak; cold concrete and pressure-lit movement.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/_qVBvudnyEs</video:player_loc>
+      <video:duration>488</video:duration>
+      <video:publication_date>2025-11-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/the-underworld</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/tzCGxO9Cdx4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>The Underworld</video:title>
+      <video:description>Artists Inside: Underworld - Kettama. Visual Data: Deep-down club tunnel visuals; hypnotic motion and strobe geometry.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/tzCGxO9Cdx4</video:player_loc>
+      <video:duration>579</video:duration>
+      <video:publication_date>2025-10-30T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/youre-not-alone</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/K0s6C1Xm03c/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>You’re Not Alone</video:title>
+      <video:description>Artists Inside: Olive - Kicks Like a Mule - Rebel MC. Visual Data: Isolation &amp; distance; split-light silhouettes and nocturnal motion.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/K0s6C1Xm03c</video:player_loc>
+      <video:duration>427</video:duration>
+      <video:publication_date>2025-10-26T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/do-you-remember</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/wKg0PFh0FFc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Do You Remember?</video:title>
+      <video:description>Artists Inside: Sash! - Alcatraz - Moby - Paris Hilton. Visual Data: Travel memory collage; late-night transit and flashback cuts.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/wKg0PFh0FFc</video:player_loc>
+      <video:duration>427</video:duration>
+      <video:publication_date>2025-10-16T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+</urlset>
