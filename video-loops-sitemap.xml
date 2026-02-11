@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+   <url>
+     <loc>https://www.spdafy.com/video-loops/v/soca-trance-remix-study</loc>
+     <video:video>
+       <video:thumbnail_loc>https://i.ytimg.com/vi/YtAVKmxZ6xY/maxresdefault.jpg</video:thumbnail_loc>
+       <video:title>Soca Trance</video:title>
+       <video:description>An experiment in audio/visual density. This loop forces the organic energy of Carnival vocals through an industrial hard trance filter.</video:description>
+       <video:player_loc>https://www.youtube.com/embed/YtAVKmxZ6xY</video:player_loc>
+       <video:duration>59</video:duration>
+       <video:publication_date>2026-02-10T12:00:00+00:00</video:publication_date>
+       <video:tag>Soca</video:tag>
+       <video:tag>Trance</video:tag>
+       <video:tag>Glitch Art</video:tag>
+       <video:family_friendly>yes</video:family_friendly>
+     </video:video>
+   </url>
+
+</urlset>
