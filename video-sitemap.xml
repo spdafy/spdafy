@@ -3,17 +3,30 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
- <url>
-    <loc>https://www.spdafy.com/music-videos</loc>
+<url>
+    <loc>https://www.spdafy.com/music-videos/v/maybe-its-you</loc>
     <video:video>
-      <video:thumbnail_loc>https://img.youtube.com/vi/83cUMrD35eA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://img.youtube.com/vi/FjFzaEIr3WQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Maybe It's You</video:title>
+      <video:description>Signal intercepted. A high-velocity industrial remix of "Maybe It's You." Visuals processed through a dot-matrix surveillance filter. Themes: Glitch Art, Surveillance, Industrial Breakbeat.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/FjFzaEIr3WQ</video:player_loc>
+      <video:duration>364</video:duration>
+      <video:publication_date>2026-02-14T10:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+ </url>
+  
+ <url>
+    <loc>https://www.spdafy.com/music-videos/v/broken-song-24-7-365</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/83cUMrD35eA/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Broken Song 24 7 365</video:title>
       <video:description>A visual study in repetition and surveillance. Utilizing projection mapping and grid distortions to visualize the mental loop of the 24/7 cycle.</video:description>
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/83cUMrD35eA</video:player_loc>
       <video:duration>142</video:duration>
       <video:publication_date>2026-01-30T12:00:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
-      <video:uploader info="https://www.spdafy.com">SPDAFY</video:uploader>
       <video:live>no</video:live>
     </video:video>
   </url>
@@ -27,34 +40,6 @@
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/DnDhUHM9NbA</video:player_loc>
       <video:duration>261</video:duration>
       <video:publication_date>2025-12-31T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://www.spdafy.com/music-videos/v/monday-night-boxing</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/xZFpjANqfr0/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Monday Night Boxing</video:title>
-      <video:description>Artists Inside: (DJ Set). Visual Data: Live-to-air DJ set recording.</video:description>
-      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/xZFpjANqfr0</video:player_loc>
-      <video:duration>3004</video:duration>
-      <video:publication_date>2025-12-17T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
-
-  <url>
-    <loc>https://www.spdafy.com/music-videos/v/everytime-you-touch</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/nmFkO5dlXJk/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Everytime You Touch</video:title>
-      <video:description>Artists Inside: (DJ Set). Visual Data: Weekend Electronic Music Live to Air from Toronto, Canada.</video:description>
-      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/nmFkO5dlXJk</video:player_loc>
-      <video:duration>3859</video:duration>
-      <video:publication_date>2025-12-11T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
     </video:video>
@@ -131,6 +116,20 @@
   </url>
 
   <url>
+    <loc>https://www.spdafy.com/music-videos/v/get-your-crew</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/9ZK4KQ3dRBE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Get Your Crew</video:title>
+      <video:description>Official music video for Get Your Crew. Industrial Techno and Glitch Art visuals. Exploring the concept of tribe and signal connection.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/9ZK4KQ3dRBE</video:player_loc>
+      <video:duration>544</video:duration>
+      <video:publication_date>2025-10-14T10:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+   </url>
+  
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/youre-not-alone</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/K0s6C1Xm03c/hqdefault.jpg</video:thumbnail_loc>
@@ -159,4 +158,5 @@
   </url>
 
 </urlset>
+
 
