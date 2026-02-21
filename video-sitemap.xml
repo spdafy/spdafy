@@ -3,7 +3,23 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-<url>
+
+  
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/maybe-ill-love-you-one-day</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/VjnrL2bbKI4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Maybe I'll Love You One Day</video:title>
+      <video:description>Entering the black box. We trade the city streets for a pitch-black void, using strobe lights and glitch artifacts to visualize the tension of a breakbeat rhythm.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/VjnrL2bbKI4</video:player_loc>
+      <video:duration>325</video:duration>
+      <video:publication_date>2026-02-16T10:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/maybe-its-you</loc>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/FjFzaEIr3WQ/hqdefault.jpg</video:thumbnail_loc>
@@ -15,9 +31,9 @@
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
     </video:video>
- </url>
+  </url>
   
- <url>
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/broken-song-24-7-365</loc>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/83cUMrD35eA/hqdefault.jpg</video:thumbnail_loc>
@@ -158,5 +174,6 @@
   </url>
 
 </urlset>
+
 
 
