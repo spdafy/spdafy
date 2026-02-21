@@ -3,8 +3,6 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-
-  
   <url>
     <loc>https://www.spdafy.com/music-videos/v/maybe-ill-love-you-one-day</loc>
     <video:video>
@@ -174,6 +172,7 @@
   </url>
 
 </urlset>
+
 
 
 
