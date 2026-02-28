@@ -4,6 +4,17 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
+    <loc>https://www.spdafy.com/live-audio-sets/v/hmarksorka</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EpQoEjGd_cU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Hámarksorka</video:title>
+      <video:description>Live DJ set replay by SPDAFY.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/EpQoEjGd_cU</video:player_loc>
+      <video:publication_date>2026-02-27T00:00:00Z</video:publication_date>
+    </video:video>
+  </url>
+  
+  <url>
     <loc>https://www.spdafy.com/live-audio-sets/v/monday-night-boxing</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/xZFpjANqfr0/hqdefault.jpg</video:thumbnail_loc>
@@ -26,3 +37,4 @@
   </url>
 
 </urlset>
+
