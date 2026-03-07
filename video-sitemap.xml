@@ -4,6 +4,20 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
+    <loc>https://www.spdafy.com/music-videos/v/all-the-girls</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/BvPh5_N3yEk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>All The Girls</video:title>
+      <video:description>The official music video for "All The Girls" delivers pure, unfiltered club energy. Driven by a heavy house groove, classic vocal loops, neon fisheye lenses, and high-speed destruction.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/BvPh5_N3yEk</video:player_loc>
+      <video:duration>241</video:duration>
+      <video:publication_date>2026-03-07T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/maybe-ill-love-you-one-day</loc>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/VjnrL2bbKI4/hqdefault.jpg</video:thumbnail_loc>
@@ -172,6 +186,7 @@
   </url>
 
 </urlset>
+
 
 
 
