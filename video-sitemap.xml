@@ -227,9 +227,18 @@
     </video:video>
   </url>
 
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/-know-you-want-me-too</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/-QvSKxgPolA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>I Know You Want Me Too</video:title>
+      <video:description>The official visual cut for my remix of "I Know You Want Me Too". This drop violently contrasts bright urban choreography with heavy geometric glitch masking, digital fragmentation, and dark warehouse sequences, all driven by a relentless 125 BPM tech-house bassline.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/-QvSKxgPolA</video:player_loc>
+      <video:duration>599</video:duration>
+      <video:publication_date>2025-10-16T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
 </urlset>
-
-
-
-
-
