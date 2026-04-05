@@ -4,6 +4,34 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
+    <loc>https://www.spdafy.com/music-videos/v/ride-with-me-baby</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/rPUvGsaLD34/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Ride With Me Baby</video:title>
+      <video:description>A love letter to analog formats, violently torn apart by digital chaos. 125 BPM tech-house, physical media, and pure digital decay. Lock into the groove.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/rPUvGsaLD34</video:player_loc>
+      <video:duration>392</video:duration>
+      <video:publication_date>2026-04-02T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  <url>
+    <loc>https://www.spdafy.com/music-videos/v/wasting-all-my-time</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/adeN2eKVcek/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wasting All My Time</video:title>
+      <video:description>We traded the dark room for the daylight loop. This is a study in mundane reality and the anxiety of the 24/7 cycle, violently contrasted against a driving 125 BPM tech-house bassline.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/adeN2eKVcek</video:player_loc>
+      <video:duration>441</video:duration>
+      <video:publication_date>2026-03-28T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/make-me-go</loc>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/cJsAj9g2wgY/hqdefault.jpg</video:thumbnail_loc>
