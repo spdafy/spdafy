@@ -4,6 +4,20 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
+    <loc>https://www.spdafy.com/music-videos/v/do-you-see</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/3ddQWrLCmyk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Do You See</video:title>
+      <video:description>A descent into a neon-soaked future noir. This is a cinematic exploration of a rain-streaked cyberpunk cityscape, driven by a hypnotic 125 BPM tech-house pulse. Witness the signal through the storm.</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/3ddQWrLCmyk</video:player_loc>
+      <video:duration>342</video:duration>
+      <video:publication_date>2026-04-13T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  <url>
     <loc>https://www.spdafy.com/music-videos/v/ride-with-me-baby</loc>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/rPUvGsaLD34/hqdefault.jpg</video:thumbnail_loc>
