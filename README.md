@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://next.spdafy.com">
-    <img src="https://raw.githubusercontent.com/spdafy/spdafy-system/main/public/logo.png" alt="SPDAFY Logo" width="300" />
+    <img src="https://next.spdafy.com/logo.png" alt="SPDAFY Logo" width="300" />
   </a>
 </div>
 
